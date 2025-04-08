@@ -163,7 +163,7 @@ try {
                         </h3>
                         
                         <?php if (!empty($_SESSION['import_results']['errors'])): ?>
-                            <div class="mt-2 overflow-x-auto">
+                            <div class="mt-2 h-96 overflow-x-auto">
                                 <table class="min-w-full bg-white border border-gray-200">
                                     <thead class="bg-gray-100">
                                         <tr>
